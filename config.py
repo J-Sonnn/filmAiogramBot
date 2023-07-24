@@ -1,0 +1,5 @@
+TOKEN = "6177029137:AAFqzkCRhWKMs5J-4ogMJC9wiUbjo62f1yE"
+
+priceURL = 50
+
+chaiID = "-1001764233171"
